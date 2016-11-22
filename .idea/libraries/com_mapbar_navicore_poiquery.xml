@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com_mapbar_navicore_poiquery">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hisenseNavi/libs/com_mapbar_navicore_poiquery.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

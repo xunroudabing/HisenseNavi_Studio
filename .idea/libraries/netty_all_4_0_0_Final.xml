@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="netty-all-4.0.0.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hisenseNavi/libs/netty-all-4.0.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

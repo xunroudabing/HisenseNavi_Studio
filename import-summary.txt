@@ -1,0 +1,104 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From HisenseNavi:
+* .gitignore
+* README.md
+* hisense.keystore
+* hs_err_pid1236.log
+* hs_err_pid8404.log
+* ic_launcher-web.png
+* proguard-project.txt
+* proguard\
+* proguard\dump.txt
+* proguard\mapping.txt
+* proguard\seeds.txt
+* proguard\usage.txt
+From PullToRefreshlibrary:
+* LICENSE
+* pom.xml
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In PullToRefreshlibrary:
+* AndroidManifest.xml => pullToRefreshlibrary\src\main\AndroidManifest.xml
+* assets\ => pullToRefreshlibrary\src\main\assets
+* res\ => pullToRefreshlibrary\src\main\res\
+* src\ => pullToRefreshlibrary\src\main\java\
+In HisenseNavi:
+* AndroidManifest.xml => hisenseNavi\src\main\AndroidManifest.xml
+* assets\ => hisenseNavi\src\main\assets\
+* jni\ => hisenseNavi\src\main\jni\
+* libs\achartengine-1.1.0.jar => hisenseNavi\libs\achartengine-1.1.0.jar
+* libs\armeabi\libjpush180.so => hisenseNavi\src\main\jniLibs\armeabi\libjpush180.so
+* libs\armeabi\liblocSDK4d.so => hisenseNavi\src\main\jniLibs\armeabi\liblocSDK4d.so
+* libs\armeabi\libmapbar_navicore.so => hisenseNavi\src\main\jniLibs\armeabi\libmapbar_navicore.so
+* libs\armeabi\libmp3lame.so => hisenseNavi\src\main\jniLibs\armeabi\libmp3lame.so
+* libs\com_mapbar_jnavicore_resources.jar => hisenseNavi\libs\com_mapbar_jnavicore_resources.jar
+* libs\com_mapbar_navicore_map.jar => hisenseNavi\libs\com_mapbar_navicore_map.jar
+* libs\com_mapbar_navicore_mapdal.jar => hisenseNavi\libs\com_mapbar_navicore_mapdal.jar
+* libs\com_mapbar_navicore_navi.jar => hisenseNavi\libs\com_mapbar_navicore_navi.jar
+* libs\com_mapbar_navicore_poiquery.jar => hisenseNavi\libs\com_mapbar_navicore_poiquery.jar
+* libs\commons-httpclient-3.1.jar => hisenseNavi\libs\commons-httpclient-3.1.jar
+* libs\HiaTIS_Push_Client_SDK_20150711.jar => hisenseNavi\libs\HiaTIS_Push_Client_SDK_20150711.jar
+* libs\jackson-annotations-2.2.2.jar => hisenseNavi\libs\jackson-annotations-2.2.2.jar
+* libs\jackson-core-2.2.2.jar => hisenseNavi\libs\jackson-core-2.2.2.jar
+* libs\jackson-databind-2.2.2.jar => hisenseNavi\libs\jackson-databind-2.2.2.jar
+* libs\jpush-sdk-release1.8.0.jar => hisenseNavi\libs\jpush-sdk-release1.8.0.jar
+* libs\libammsdk.jar => hisenseNavi\libs\libammsdk.jar
+* libs\locSDK_4.2.jar => hisenseNavi\libs\locSDK_4.2.jar
+* libs\Msc.jar => hisenseNavi\libs\Msc.jar
+* libs\mta-sdk-1.6.2.jar => hisenseNavi\libs\mta-sdk-1.6.2.jar
+* libs\netty-all-4.0.0.Final.jar => hisenseNavi\libs\netty-all-4.0.0.Final
+.jar
+* libs\open_sdk.jar => hisenseNavi\libs\open_sdk.jar
+* libs\umeng_sdk.jar => hisenseNavi\libs\umeng_sdk.jar
+* libs\universal-image-loader-1.9.1.jar => hisenseNavi\libs\universal-image-loader-1.9.1.jar
+* libs\weibo.sdk.android.sso.jar => hisenseNavi\libs\weibo.sdk.android.sso.jar
+* res\ => hisenseNavi\src\main\res\
+* src\ => hisenseNavi\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

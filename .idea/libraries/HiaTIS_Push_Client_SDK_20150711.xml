@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HiaTIS_Push_Client_SDK_20150711">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hisenseNavi/libs/HiaTIS_Push_Client_SDK_20150711.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\libs\com_mapbar_navicore_navi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a9728bd585ed4eae9b94b5a2e5943914874bc60e">
+        <dex dex="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\pre-dexed\ChangZhi\release\com_mapbar_navicore_navi_82e95205f9c24f655aacb0edec52ae95645a49de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\libs\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\pre-dexed\ChangZhi\release\jackson-databind-2.2.2_2c53b85524280dba121374ae430424ff022a833b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\libs\com_mapbar_navicore_poiquery.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d265ab689b0168590121d1aa4170082b221351ba">
+        <dex dex="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\pre-dexed\ChangZhi\release\com_mapbar_navicore_poiquery_aade284fb0691963af1c97bcf81528603423fd7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\exploded-aar\HisenseNavi_Studio\pullToRefreshlibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c96e6716c35fecb9a027fb8e65c6847f7a03ce5a">
+        <dex dex="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\pre-dexed\ChangZhi\release\HisenseNavi_Studio-pullToRefreshlibrary-unspecified_8fdb58ff5990488a28d7ec1ffdcc30d671cecdd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\libs\HiaTIS_Push_Client_SDK_20150711.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="33ac7a6d61700a7496009003359fb713fff96bab">
+        <dex dex="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\pre-dexed\ChangZhi\release\HiaTIS_Push_Client_SDK_20150711_d8b054c949b6755ea16ab3002308b4179cc8f68c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\libs\universal-image-loader-1.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\pre-dexed\ChangZhi\release\universal-image-loader-1.9.1_22622ef1fb8318a0e781bc1fb87fb4d0520dfe69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\libs\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\pre-dexed\ChangZhi\release\jackson-annotations-2.2.2_a2285a2d2613a5024fe462ba465bd052a3c175f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\libs\com_mapbar_navicore_map.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fb02e8ee9fb6789191088adbbbdf30108696eae1">
+        <dex dex="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\pre-dexed\ChangZhi\release\com_mapbar_navicore_map_31ed918f79a7abf01d0de23f7985d0e95faf4b9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\pre-dexed\ChangZhi\release\achartengine-1.1.0_5c33a7a1108c48dd7b68ee212fc77bd1e6f7a879.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\libs\open_sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="89610089279bb62d799d8ccb6e14e5457a253d77">
+        <dex dex="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\pre-dexed\ChangZhi\release\open_sdk_d8f6eff7e6cdf110c1e89bbe53299919c6bf6176.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\libs\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\pre-dexed\ChangZhi\release\jackson-core-2.2.2_ae1dd28d3c081be890c30d049998c7374dc34ff6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\libs\com_mapbar_navicore_mapdal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0f5441dc866f7c9c674a314fde245547f87075f9">
+        <dex dex="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\pre-dexed\ChangZhi\release\com_mapbar_navicore_mapdal_b6d0fa08a87a8f98f9ddcbef78e4216060a5b335.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adt-bundle-windows-x86_64-20131030\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\pre-dexed\ChangZhi\release\support-v4-18.0.0_491281ed8a305c9d2b086f8164c2f69bcedfaa23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\libs\jpush-sdk-release1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bea84de265dbd10ec4ea0d0185cf19dce738edd6">
+        <dex dex="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\pre-dexed\ChangZhi\release\jpush-sdk-release1.8.0_b6d22cd221ff7e89f8136eb2e4f5e35f6bcb81ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\libs\netty-all-4.0.0.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="caeb181a40952ecbf08685f8929ff9395f940799">
+        <dex dex="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\pre-dexed\ChangZhi\release\netty-all-4.0.0.Final_7d5b1d85826386d579d2ec76b2160c8c1558f379.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\libs\umeng_sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b1b3018c6b5992b6b656830d61fad88b5492156">
+        <dex dex="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\pre-dexed\ChangZhi\release\umeng_sdk_3315ae632c55b6942aa396eabaa25e9c323e5231.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\libs\libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\pre-dexed\ChangZhi\release\libammsdk_1e37c8608d12a520770bf34d453892ac0d36c641.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\libs\commons-httpclient-3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="964cd74171f427720480efdec40a7c7f6e58426a">
+        <dex dex="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\pre-dexed\ChangZhi\release\commons-httpclient-3.1_ad8ebe19a3acb100c7adbccfd2a9af19ebeab20b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\libs\locSDK_4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="41b93335a2753c93f8b8f56741615cb81ea72437">
+        <dex dex="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\pre-dexed\ChangZhi\release\locSDK_4.2_b689721b391f2d793eb7b7f97b6fbb8f2acbe646.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\libs\mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\pre-dexed\ChangZhi\release\mta-sdk-1.6.2_81f4837a08fbf9f7643f5804bfa2928c87f0111e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\libs\Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7056fa05102abab082ed50575a2843495442fd48">
+        <dex dex="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\pre-dexed\ChangZhi\release\Msc_f7851e98ecb711a70a1ee0e0bc8ebd2b9e1e8855.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\libs\weibo.sdk.android.sso.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e81daa09ae0ba8614ac736487b55fe3bb7679b87">
+        <dex dex="D:\HanZheng\Git\HisenseNavi_Studio\hisenseNavi\build\intermediates\pre-dexed\ChangZhi\release\weibo.sdk.android.sso_03b4dc070ddb101e3d377922d7d4b3aa51300317.jar" />
+    </item>
+
+</items>
